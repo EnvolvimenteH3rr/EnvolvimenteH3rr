@@ -31,11 +31,11 @@
 
 <hr>
 
-## 🌐 Sobre Mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Sobre Mim
 
-- 👨‍💻 **Full Stack Developer** especializado em criar aplicações web escaláveis com tecnologias modernas
-- 💡 Apaixonado por código limpo, otimização de desempenho e resolução de problemas complexos
-- 🎯 **Foco atual:** Ecossistema JavaScript • React • Node.js • Arquitetura em Nuvem
+- � **Full Stack Developer** especializado em criar aplicações web escaláveis com tecnologias modernas
+- � Apaixonado por código limpo, otimização de desempenho e resolução de problemas complexos
+- ✨ **Foco atual:** Ecossistema JavaScript • React • Node.js • Arquitetura em Nuvem
 
 <hr>
 
