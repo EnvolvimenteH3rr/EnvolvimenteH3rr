@@ -3,8 +3,8 @@
 <!-- Onda superior neon -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 
-<!-- Vídeo/GIF do Header -->
-<video src="./assets/1114.mp4" width="80%" autoplay loop muted></video>
+<!-- GIF do Header -->
+<img src="./assets/1114.gif" alt="Header Animation" width="80%" />
 
 </div>
 
@@ -153,24 +153,12 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 </div>
 
-<div align="center">
+<div align="left">
 
-<a href="mailto:nickschunck17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/nikolas-ribeiro" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/DevYukis" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-7c3aed?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.instagram.com/dev.nick_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-6366f1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br><br>
-
-💬 Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+- 📧 **Email:** nickschunck17@gmail.com
+- 🌐 **Website:** [architect.guarasal.com](https://architect.guarasal.com) _(Ctrl+Click or ⌘ Command+Click to open in new tab)_
+- � **Feel free** to open an issue or pull request if you'd like to collaborate or ask questions!
+- 🚀 **Help me launch more cool stuff** — [Donate to the green digital cat below 👇 Lol](https://seu-link-doacao.com)
 
 </div>
 
