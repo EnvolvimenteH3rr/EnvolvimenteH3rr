@@ -3,8 +3,15 @@
 <!-- Onda superior neon -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 
+<!-- Welcome Message -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</a>
+
+<br>
+
 <!-- GIF do Header -->
-<img src="./assets/1114.gif" alt="Header Animation" width="80%" />
+<img src="./assets/1114.gif" alt="Header Animation" width="80%" autoplay loop />
 
 <br>
 
