@@ -17,16 +17,16 @@
 
 <div align="center">
 
-## 📋 What You'll Find Here
+## What You'll Find Here
 
 </div>
 
 <div align="left">
 
-- 💻 **Source code** from both academic and real-world projects
-- 📚 **Articles and insights** about AI, IoT, Cloud Architecture, and more
-- 🛠️ **Self-developed or contributed** dev tools and extensions
-- 📖 **Community resources** such as documentation and guides
+- **Source code** from both academic and real-world projects
+- **Articles and insights** about AI, IoT, Cloud Architecture, and more
+- **Self-developed or contributed** dev tools and extensions
+- **Community resources** such as documentation and guides
 
 </div>
 
@@ -130,14 +130,16 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <br>
 
-<div align="center">
-
 ## 📈 GitHub Activity
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnvolvimenteH3rr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7" alt="Activity Graph" width="100%" />
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnvolvimenteH3rr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7" alt="Activity Graph" width="100%" />
+
+<img src="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" width="100%" />
+
 </div>
 
 <br>
@@ -155,10 +157,10 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <div align="left">
 
-- 📧 **Email:** nickschunck17@gmail.com
-- 🌐 **Website:** [architect.guarasal.com](https://architect.guarasal.com) _(Ctrl+Click or ⌘ Command+Click to open in new tab)_
-- � **Feel free** to open an issue or pull request if you'd like to collaborate or ask questions!
-- 🚀 **Help me launch more cool stuff** — [Donate to the green digital cat below 👇 Lol](https://seu-link-doacao.com)
+- **Email:** nickschunck17@gmail.com
+- **Website:** [architect.guarasal.com](https://architect.guarasal.com) _(Ctrl+Click or ⌘ Command+Click to open in new tab)_
+- **Feel free** to open an issue or pull request if you'd like to collaborate or ask questions!
+- **Help me launch more cool stuff** — [Donate to the green digital cat below](https://seu-link-doacao.com)
 
 </div>
 
@@ -169,6 +171,6 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <div align="center">
 
-⭐ **Don't forget to star my repositories if you find them useful!** ⭐
+**Don't forget to star my repositories if you find them useful!**
 
 </div>
