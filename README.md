@@ -100,9 +100,6 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
   </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/🤗-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" height="48" alt="Hugging Face" />
-  </a>
 </p>
 
 ### Development Tools
@@ -150,7 +147,7 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | **Smart Web Platform** | Plataforma web escalável com arquitetura moderna e alta performance | React, Node.js, Azure, Docker |
-| **AI Assistant** | Assistente inteligente com processamento de linguagem natural | Python, TensorFlow, Hugging Face |
+| **AI Assistant** | Assistente inteligente com processamento de linguagem natural | Python, TensorFlow, PyTorch |
 | **Cloud Architecture** | Soluções de infraestrutura em nuvem otimizadas | Azure, Firebase, Docker, .NET |
 
 </div>
@@ -192,6 +189,23 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <div align="center">
 
+## <img src="https://i.postimg.cc/GtYJDLq2/Shark.gif" width="30" /> Chill Zone
+
+<img src="https://camo.githubusercontent.com/d55429fb5162b78b432b042f9411934fbba7dcf6b15020912b7fd636b0396671/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36642f65302f63342f36646530633432656431633833356539366237376230326261336234653432382e676966" width="60%" alt="Purple Aesthetic" />
+
+_Taking a moment to appreciate the beauty of code and creativity_ ✨
+
+</div>
+
+<br>
+
+<!-- Divisor neon -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
 ## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30" /> Connect with Me
 
 </div>
@@ -200,8 +214,10 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 - **Email:** nickschunck17@gmail.com
 - **Website:** [architect.guarasal.com](https://architect.guarasal.com) _(Ctrl+Click or ⌘ Command+Click to open in new tab)_
+- **LinkedIn:** [nikolas-ribeiro](https://linkedin.com/in/nikolas-ribeiro)
+- **Twitter:** [@DevYukis](https://twitter.com/DevYukis)
+- **Instagram:** [@dev.nick_](https://instagram.com/dev.nick_)
 - **Feel free** to open an issue or pull request if you'd like to collaborate or ask questions!
-- **Help me launch more cool stuff** — [Donate to the green digital cat below](https://seu-link-doacao.com)
 
 </div>
 
