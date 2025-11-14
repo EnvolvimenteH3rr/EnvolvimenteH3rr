@@ -1,33 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile;Full+Stack+Developer;Building+the+future+with+code" alt="Typing SVG">
-  </a>
+  <img src="./assets/vd1.gif" alt="Header Animation" width="100%" />
 </div>
-
-#
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DevYukis&color=ff00f6&style=for-the-badge)](https://github.com/DevYukis)
-[![GitHub followers](https://img.shields.io/github/followers/DevYukis?style=for-the-badge&logo=github&color=ff00f6)](https://github.com/DevYukis?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/DevYukis?style=for-the-badge&color=ff00f6)](https://github.com/DevYukis)
-
-</div>
-
-## Nikolas Ribeiro
-
-<p align="center">
-  <strong>Full Stack Developer</strong> | São Paulo, Brazil
-</p>
-
-<p align="center">
-  Specializing in building scalable web applications with modern technologies. <br>
-  Passionate about clean code, performance optimization, and solving complex problems.
-</p>
-
-<p align="center">
-  <strong>Current Focus:</strong> JavaScript Ecosystem • React • Node.js • Cloud Architecture
-</p>
 
 <hr>
 
