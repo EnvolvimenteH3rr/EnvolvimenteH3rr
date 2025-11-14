@@ -79,8 +79,15 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 ### AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-8b5cf6?style=flat-square" height="48" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/🤗-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" height="48" alt="Hugging Face" />
+  </a>
 </p>
 
 ### Development Tools
@@ -148,17 +155,22 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <div align="center">
 
-📧 **Email:** seuemail@exemplo.com
+<a href="mailto:nickschunck17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/nikolas-ribeiro" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/DevYukis" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-7c3aed?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://www.instagram.com/dev.nick_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-6366f1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-🌐 **Website:** [seu-site.com](https://seu-site.com)
-
-💼 **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-
-🐦 **Twitter:** [@seu_usuario](https://twitter.com/seu_usuario)
+<br><br>
 
 💬 Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
-
-🚀 Help me launch more cool stuff — [Donate or support below](https://seu-link-de-doacao.com)
 
 </div>
 
