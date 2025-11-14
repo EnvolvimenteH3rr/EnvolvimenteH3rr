@@ -31,48 +31,11 @@
 
 <hr>
 
-## Sobre mim
+## 🌐 Sobre Mim
 
-```javascript
-const nikolas = {
-  role: "Full Stack Developer",
-  location: "São Paulo, Brazil",
-  code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
-  
-  technologies: {
-    frontEnd: {
-      frameworks: ["React", "Vue.js", "Next.js"],
-      styling: ["TailwindCSS", "CSS3", "SCSS"],
-      tools: ["Vite", "Webpack"]
-    },
-    backEnd: {
-      runtime: ["Node.js", "Express"],
-      frameworks: ["Laravel", "Django", "Flask"],
-      api: ["REST", "GraphQL"]
-    },
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-    devOps: ["Docker", "AWS", "Azure", "Google Cloud", "Nginx"],
-    tools: ["Git", "GitLab", "Linux", "OAuth"]
-  },
-  
-  currentlyLearning: ["Microservices", "System Design", "AI Integration"],
-  passion: "Building high-performance, user-centric applications"
-};
-```
-
-### O que eu faço
-
-- **Develop** robust full-stack applications with focus on scalability
-- **Design** intuitive and responsive user interfaces
-- **Architect** cloud-native solutions and microservices
-- **Optimize** database performance and API efficiency
-- **Collaborate** with cross-functional teams to deliver impactful solutions
-
-### Philosophy
-
-> "Great code is not just about making it work, but making it maintainable, scalable, and elegant."
-
-I believe in writing code that not only solves today's problems but is also prepared for tomorrow's challenges.
+- 👨‍💻 **Full Stack Developer** especializado em criar aplicações web escaláveis com tecnologias modernas
+- 💡 Apaixonado por código limpo, otimização de desempenho e resolução de problemas complexos
+- 🎯 **Foco atual:** Ecossistema JavaScript • React • Node.js • Arquitetura em Nuvem
 
 <hr>
 
