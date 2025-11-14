@@ -136,11 +136,7 @@ Apaixonado por código limpo, otimização de desempenho e resolução de proble
 
 <br>
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/EnvolvimenteH3rr/EnvolvimenteH3rr/output/pacman-contribution-graph-dark.svg" alt="Pacman Game" width="100%" />
-
-</div>
 
 <br>
 
