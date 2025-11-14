@@ -56,241 +56,124 @@
 
 <hr>
 
-## My Core Skills
+## 💫 Minhas Skills
 
 <div align="center">
 
-### Development Tools & Languages
+### 💻 Linguagens de Programação
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-</a>
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio" />
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="PyCharm" />
-</a>
-<a href="https://neovim.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="Neovim" />
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
-</a>
-<a href="https://www.qt.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=qt" height="50" alt="Qt" />
-</a>
-<a href="https://cmake.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cmake" height="50" alt="CMake" />
-</a>
 <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-</a>
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-</a>
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
-</a>
-
-</div>
-
-### Web, Cloud & Frameworks
-
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="Sass" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
-</a>
-<a href="https://nuxt.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="Nuxt.js" />
-</a>
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
-</a>
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
-</a>
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-</a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
-</a>
-<a href="https://graphql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-</a>
-<a href="https://www.nginx.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-</a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" />
-</a>
-<a href="https://supabase.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" />
-</a>
-
-</div>
-
-### Design, Architecture & 3D
-
-<div align="center">
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-</a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Photoshop" />
-</a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="Premiere Pro" />
-</a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="After Effects" />
-</a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="Illustrator" />
-</a>
-<a href="https://www.blender.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="Blender" />
-</a>
-<a href="https://threejs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="Three.js" />
-</a>
-<a href="https://unity.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity" />
-</a>
-
-</div>
-
-### Databases & Storage
-
-<div align="center">
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
-</a>
-<a href="https://redis.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-</a>
-
-</div>
-
-### Hardware, OS & Utilities
-
-<div align="center">
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
-</a>
-<a href="https://www.raspberrypi.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="50" alt="C" style="border: 2px solid #a855f7; border-radius: 10px; padding: 5px;" />
 </a>
 <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="C++" style="border: 2px solid #8b5cf6; border-radius: 10px; padding: 5px;" />
 </a>
-<a href="https://www.apple.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=apple" height="50" alt="Apple" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="50" alt="C#" style="border: 2px solid #7c3aed; border-radius: 10px; padding: 5px;" />
 </a>
-<a href="https://ubuntu.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="Ubuntu" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="50" alt="JavaScript" style="border: 2px solid #6366f1; border-radius: 10px; padding: 5px;" />
 </a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="50" alt="TypeScript" style="border: 2px solid #3b82f6; border-radius: 10px; padding: 5px;" />
 </a>
-<a href="https://www.powershellgallery.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" style="border: 2px solid #06b6d4; border-radius: 10px; padding: 5px;" />
 </a>
 
 </div>
 
-### AI & Writing
+### 🎨 Frameworks & Libraries
+
+<div align="center">
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="React" style="border: 2px solid #a855f7; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="Node.js" style="border: 2px solid #8b5cf6; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" alt="Docker" style="border: 2px solid #7c3aed; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="50" alt="Azure" style="border: 2px solid #6366f1; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="50" alt="Firebase" style="border: 2px solid #3b82f6; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="50" alt=".NET" style="border: 2px solid #06b6d4; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://unity.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" height="50" alt="Unity" style="border: 2px solid #a855f7; border-radius: 10px; padding: 5px;" />
+</a>
+
+</div>
+
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="50" alt="TensorFlow" style="border: 2px solid #8b5cf6; border-radius: 10px; padding: 5px;" />
 </a>
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="50" alt="PyTorch" style="border: 2px solid #7c3aed; border-radius: 10px; padding: 5px;" />
 </a>
-<a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="LaTeX" />
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://img.shields.io/badge/🤗-Hugging%20Face-8b5cf6?style=for-the-badge&logo=huggingface&logoColor=white" height="50" alt="Hugging Face" style="border: 2px solid #6366f1; border-radius: 10px;" />
 </a>
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="Markdown" />
+
+</div>
+
+### 🛠️ Ferramentas & Sistemas
+
+<div align="center">
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" alt="Git" style="border: 2px solid #a855f7; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" style="border: 2px solid #8b5cf6; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="VS Code" style="border: 2px solid #7c3aed; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="50" alt="Visual Studio" style="border: 2px solid #6366f1; border-radius: 10px; padding: 5px;" />
+</a>
+
+</div>
+
+### 🖥️ Sistemas Operacionais
+
+<div align="center">
+
+<a href="https://www.microsoft.com/windows" target="_blank">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="50" alt="Windows" style="border: 2px solid #3b82f6; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" alt="Linux" style="border: 2px solid #06b6d4; border-radius: 10px; padding: 5px;" />
+</a>
+
+</div>
+
+### 🎨 Design
+
+<div align="center">
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="50" alt="Photoshop" style="border: 2px solid #a855f7; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pr&theme=dark" height="50" alt="Premiere Pro" style="border: 2px solid #8b5cf6; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" height="50" alt="After Effects" style="border: 2px solid #7c3aed; border-radius: 10px; padding: 5px;" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" height="50" alt="Illustrator" style="border: 2px solid #6366f1; border-radius: 10px; padding: 5px;" />
 </a>
 
 </div>
