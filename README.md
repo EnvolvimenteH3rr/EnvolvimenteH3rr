@@ -38,6 +38,7 @@ const nikolas = {
   role: "Full Stack Developer",
   location: "São Paulo, Brazil",
   code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
+  
   technologies: {
     frontEnd: {
       frameworks: ["React", "Vue.js", "Next.js"],
@@ -53,6 +54,7 @@ const nikolas = {
     devOps: ["Docker", "AWS", "Azure", "Google Cloud", "Nginx"],
     tools: ["Git", "GitLab", "Linux", "OAuth"]
   },
+  
   currentlyLearning: ["Microservices", "System Design", "AI Integration"],
   passion: "Building high-performance, user-centric applications"
 };
