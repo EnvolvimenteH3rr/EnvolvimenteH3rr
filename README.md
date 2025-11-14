@@ -31,9 +31,9 @@
 
 <hr>
 
-## About Me
+## Sobre mim
 
-```typescript
+```javascript
 const nikolas = {
   role: "Full Stack Developer",
   location: "São Paulo, Brazil",
@@ -58,7 +58,7 @@ const nikolas = {
 };
 ```
 
-### What I Do
+### O que eu faço
 
 - **Develop** robust full-stack applications with focus on scalability
 - **Design** intuitive and responsive user interfaces
